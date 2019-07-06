@@ -1,6 +1,6 @@
 *.py[cod]
 
-/ros/build/*
-/ros/devel/*
+*/build/*
+*/devel/*
 
 profile.tmp
